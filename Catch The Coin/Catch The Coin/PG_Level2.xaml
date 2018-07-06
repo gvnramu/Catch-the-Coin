@@ -1,0 +1,99 @@
+﻿<Page
+    x:Class="Catch_the_Coin.PG_Level2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Catch_the_Coin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+	<Page.Resources>
+	
+		<Storyboard x:Name="Story_Level2">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="Img_cup1">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-90"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-90"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="-5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="-5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="-5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="Img_cup3">
+				<EasingDoubleKeyFrame KeyTime="0" Value="-1.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-1.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-91.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="-91.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="-88.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.5" Value="-8.5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="Img_cup2">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0.732"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="0.732"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="0.732"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="0.732"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="-0.268"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="-1.268"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="Img_cup3">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-84"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-84"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="-14"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="-12"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="78"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="Img_cup2">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-76.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-76.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="-166.5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="Img_cup1">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="156"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="156"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.7" Value="76"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="Img_Coin">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="133.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.5" Value="78"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="Img_Coin">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="-1.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.5" Value="-6"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	
+	</Page.Resources>
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}" Height="auto" Width="auto">
+        <Image x:Name="Img_Table" HorizontalAlignment="Left" Height="361" Margin="486,316,0,0" VerticalAlignment="Top" Width="322" Source="Assets/table.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="Img_cup1" HorizontalAlignment="Left" Height="73" Margin="486,288,0,0" VerticalAlignment="Top" Width="100" Source="Assets/cup.png" RenderTransformOrigin="0.5,0.5" Tapped="Img_cup1_Tapped">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="Img_cup2" HorizontalAlignment="Left" Height="71.088" Margin="650.463,286.507,0,0" VerticalAlignment="Top" Width="100" Source="Assets/cup.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Tapped="Img_cup2_Tapped">
+            <Image.RenderTransform>
+                <CompositeTransform SkewY="-0.838" TranslateY="0.732"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="Img_cup3" HorizontalAlignment="Left" Height="73" Margin="570,288,0,0" VerticalAlignment="Top" Width="100" Source="Assets/cup.png" RenderTransformOrigin="0.5,0.5" Tapped="Img_cup3_Tapped">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="Img_Coin" HorizontalAlignment="Left" Height="27" Margin="546,316,0,0" VerticalAlignment="Top" Width="38" Source="Assets/coin.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="Btn_GameStart" Content="Play" HorizontalAlignment="Left" Margin="1054,514,0,0" VerticalAlignment="Top" Height="64" Width="226" FontSize="36" Click="Btn_GameStart_Click"/>
+        <Button x:Name="Btn_NextLevel" Content="Next Level" HorizontalAlignment="Left" Margin="1054,613,0,0" VerticalAlignment="Top" Height="64" Width="226" FontSize="36" Visibility="Collapsed" Click="Btn_NextLevel_click" />
+        <TextBlock x:Name="TxtBox_Level" HorizontalAlignment="Left" Height="68" Margin="83,61,0,0" TextWrapping="Wrap" Text="Level 2" VerticalAlignment="Top" Width="278" FontSize="36"/>
+        <TextBlock x:Name="TxtBox_LevelF_P" HorizontalAlignment="Left" Margin="546,129,0,0" TextWrapping="Wrap" Text="Level Passed" VerticalAlignment="Top" FontSize="36" Visibility="Collapsed"/>
+    </Grid>
+</Page>

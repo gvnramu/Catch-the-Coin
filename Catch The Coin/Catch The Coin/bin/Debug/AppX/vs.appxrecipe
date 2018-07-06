@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-AI9TNH5</Machine>
+    <WindowsUser>goli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4ce6542c-a002-4515-b4b8-818701d6417e</PackageIdentityName>
+    <IntermediateOutputPath>D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3B8E2C9C20088CC2EB009DC72BF4074229BE32683CF245151B833B78DAAB3723</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4ce6542c-a002-4515-b4b8-818701d6417e_1.1.0.0_neutral__xjc9x0hyn18fg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4ce6542c-a002-4515-b4b8-818701d6417e_xjc9x0hyn18fg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4ce6542c-a002-4515-b4b8-818701d6417e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=GRR</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-13T10:26:51.988</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\Catch the Coin.exe">
+      <PackagePath>Catch the Coin.exe</PackagePath>
+      <Modified>2016-12-19T13:37:08.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\coin.png">
+      <PackagePath>Assets\coin.png</PackagePath>
+      <Modified>2016-02-26T02:25:36.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\cup.png">
+      <PackagePath>Assets\cup.png</PackagePath>
+      <Modified>2016-02-26T02:25:36.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\Assets\table.png">
+      <PackagePath>Assets\table.png</PackagePath>
+      <Modified>2016-02-26T02:25:36.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\Catch the Coin.xr.xml">
+      <PackagePath>Catch the Coin.xr.xml</PackagePath>
+      <Modified>2016-09-13T10:26:49.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\PG_Level1.xbf">
+      <PackagePath>PG_Level1.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\PG_Level2.xbf">
+      <PackagePath>PG_Level2.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\PG_Level3.xbf">
+      <PackagePath>PG_Level3.xbf</PackagePath>
+      <Modified>2016-09-13T10:26:49.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\User-Data\documents\Gvnr\Project Backup\Catch the Coin\Catch the Coin\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-13T10:26:50.910</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

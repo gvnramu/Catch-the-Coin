@@ -1,0 +1,68 @@
+G:\Project\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.exe
+G:\Project\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.pdb
+G:\Project\Catch The Coin\Catch The Coin\bin\Release\resources.pri
+G:\Project\Catch The Coin\Catch The Coin\bin\Release\AppxManifest.xml
+G:\Project\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.build.appxrecipe
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\App.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\App.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\level2.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\level2.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\MainPage.g.i.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\MainPage.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\XamlTypeInfo.g.cs
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\App.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\level2.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\MainPage.xaml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\Catch The Coin.exe
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\Catch The Coin.pdb
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\priconfig.xml.intermediate
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\layout.resfiles.intermediate
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\resources.resfiles.intermediate
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\pri.resfiles.intermediate
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\priconfig.xml
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\layout.resfiles
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\resources.resfiles
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\pri.resfiles
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\LanguageQualifiers.txt
+G:\Project\Catch The Coin\Catch The Coin\obj\Release\ProjectArchitectures.txt
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.exe
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.pdb
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\bin\Release\resources.pri
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\bin\Release\AppxManifest.xml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\bin\Release\Catch The Coin.build.appxrecipe
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\App.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\App.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\level2.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\level2.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\MainPage.g.i.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\MainPage.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\XamlTypeInfo.g.cs
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\App.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage1.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\BasicPage2.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\Common\StandardStyles.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\level2.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\MainPage.xaml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\Catch The Coin.exe
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\Catch The Coin.pdb
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\priconfig.xml
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\layout.resfiles
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\resources.resfiles
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\pri.resfiles
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\LanguageQualifiers.txt
+C:\Users\dcme\Documents\Visual Studio 2012\Projects\Catch The Coin\Catch The Coin\obj\Release\ProjectArchitectures.txt
